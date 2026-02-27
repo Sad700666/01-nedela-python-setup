@@ -1,0 +1,37 @@
+1.uzdevums — Algoritmu rakstīšana vienkāršā valodā
+
+1.1 Pieslēgšanās e-pastam.
+Lai pieslēgtos e-pastam sāku ar to ka ieslēdzu datoru in izdomāju kurš no e-pastiem man ir nepieciešams - darba vai privātais.
+Ja nepieciešams darba e-pasts tad pēc datora ieslēgšanas atveru pasta pārlūkprogrammu un varu sākt darbu. Visi iestatījumi jau programmā ievadīti iepriekš.
+Lai pieslēgtos privātajam e-pastam sākumā atveru tīmekļa pārlūkprogrammu, ievadu vietnes adresi vai izvēlēties to no "grāmatzīmēm". Kad lapa ir atvērta atbilstošos logos ievadu lietotāja vārdu un paroli. Esmu pieslēdzies e-pastam. Var sākt darbu.
+
+Pieslēgšanās darba e-pastam:
+1.Ieslēgt datoru
+2.Atvērt e-pasta pārlūkprogrammu
+3.Sākt darbu
+
+Pieslēgšanās privātajam e-pastam:
+1.Ieslēgt datoru
+2.Atvērt tīmekļa pārlūkprogrammu
+3.Ievadīt vietnes adresi vai izvēlēties to no "grāmatzīmēm"
+4.Ievadīt lietotāja vārdu un paroli
+5.Sākt darbu
+
+1.2 Kafijas iegāde.
+Pārtikas preces vienmēr pērku veikalā, tapēc lai iegādātos kafiju saģērbjos atbilstoši laikapstākļiem, paņemu naudas maku, telefonu, atslēgas un iepirkumu maisiņu un dodos uz tuvako veikalu.
+Veikalā dodos pie kafijas plaukta un apskatu piedāvājumu. Vai ir atlaides kafijai kas man garšo? Vai ir atlaides kādai dārgākai kafijai kas tagad ir manas iecienītās kafijas cenā? Ja ir apskatu cik stipri grauzdēta tā ir (man garšo stipri grauzdēta kafija). Atkarībā no piedāvājuma izvēlos kafiju un dodos uz pašapkalpošanās kasi. Noskenēju preci, noskenēju klienta karti, apmaksāju pirkumu ar bankas karti, paņēmu čeku un pirkumu lieku maisiņā. Var doties majās vārīt kafiju.
+
+Kafijas iegāde
+1.Saģērbties atbilstoši laikapstākļiem
+2.Paņemt nepieciešamās lietas - maks, telefons, atslēgas, iepirkumu maisiņš
+3.Doties uz tuvako veikalu
+4.Doties pie kafijas plaukta
+5.Apskatīt piedāvājumu 
+6.Atkarībā no piedāvājuma izvēlēties kafiju
+7.Doties uz kasi
+8.Noskenēt preci
+9.Noskenēt klienta karti
+10.Samaksāt par preci ar bankas karti
+11.Paņemt čeku
+12.Ielikt pirkumus maisiņā
+13.Doties mājās
