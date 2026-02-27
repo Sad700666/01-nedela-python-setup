@@ -1,0 +1,13 @@
+Sviestmaizes pagatavošana
+
+1.Paņemt maizi no maizes kastes
+2.Paņemt virtuves dēlīti un nolikt uz tā maizi un atvērt iepakojumu
+3.Vai maize ir sagriezta ?
+	3a. Jā - izvilkt vienu maizes šķēli no iepakojuma
+	3b.Izvilkt maizes klaipu no iepakojuma. Paņemt nazi aiz roktura un nogriezt un no klaipa nogriezt vienu šķēli apmēram 5 līdz 7 mm biezumā
+4.Nolikt maizes šķēli uz virtuves dēlīša
+5.Paņemt sviestu no ledusskapja un nolikt uz virtuves dēlīša
+6.Atvērt sviesta iepakojumu
+7.Paņemt nazi aiz roktura un nogriezt nelielu sviesta gabaliņu
+8.Ar nazi izsmērēt sviestu pa maizes šķēli vienmērīgā kārtā
+9.Sviestmaize ir gatava
